@@ -8,8 +8,6 @@ public class blxs {
         x=sc.nextDouble()+0.05;
         int d1=(int)(x*10);
         double d2=d1/10.0;
-        //其他方法
-        //double d3=x+0.05;
         System.out.println(d2);
 
     }
