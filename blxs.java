@@ -9,6 +9,6 @@ public class blxs {
         int d1=(int)(x*10);
         double d2=d1/10.0;
         System.out.println(d2);
-
+//保留小数
     }
 }
