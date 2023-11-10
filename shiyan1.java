@@ -69,7 +69,7 @@ public class Main {
         System.out.println("最大为:"+max+"\n最小为:"+min);
     }
 }*/
-public class Main {
+/*public class Main {
     public static void main(String[] args) {
         for (int i = 1; i <= 4; i++) {
             for (int j = 1; j <= i; j++) {
@@ -79,4 +79,4 @@ public class Main {
         }
 
     }
-}
+}*/
