@@ -41,7 +41,7 @@ public class Test1 {
             sum-=1.0/i;
         }
         System.out.println(sum);*/
-        int score = 0;
+        int score = 0;213
         int count = 0;
         int min =2^31-1;
         int max =-2^31+1;
